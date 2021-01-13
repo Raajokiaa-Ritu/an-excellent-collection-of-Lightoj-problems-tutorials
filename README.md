@@ -1,4 +1,4 @@
-# an-excellent-collection-of-Lightoj-tutorials
+# an-excellent-collection-of-Lightoj-problems-tutorials
 
 ----------------------------------------------
 #all links are collected from those blog , listed below :
