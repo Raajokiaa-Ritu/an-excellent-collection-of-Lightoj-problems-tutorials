@@ -1,7 +1,7 @@
 # an-excellent-collection-of-Lightoj-tutorials
 
 ----------------------------------------------
-#all links collected from the blog , listed below :
+#all links that are collected from those blog , listed below :
 --------------------------------------------------
 
 1.https://www.shawonruet.com/search/label/lightoj
