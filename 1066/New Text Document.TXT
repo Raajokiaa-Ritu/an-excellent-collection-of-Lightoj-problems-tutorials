@@ -1,0 +1,2 @@
+https://github.com/rafi-kamal/ACM-Solutions/blob/master/LightOj/Graph%20Theory/1066%20-%20Gathering%20Food.cpp
+

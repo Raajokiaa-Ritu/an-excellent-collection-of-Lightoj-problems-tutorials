@@ -1,0 +1,2 @@
+https://github.com/rafi-kamal/ACM-Solutions/blob/master/LightOj/Graph%20Theory/1046%20-%20Rider.cpp
+

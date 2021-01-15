@@ -1,0 +1,2 @@
+https://github.com/rafi-kamal/ACM-Solutions/blob/master/LightOj/Graph%20Theory/1039%20-%20A%20Toy%20Company.cpp
+
