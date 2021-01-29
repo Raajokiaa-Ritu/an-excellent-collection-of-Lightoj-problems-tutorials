@@ -8,9 +8,9 @@
 
 2.https://sifatshishir.blogspot.com/2018/01/light-oj-hints.html
 
-3.https://ishtiaqhimu.blogspot.com/2019/06/beginners-problems-light-oj-hints.html?showComment=1610526741206#c4906902126703355772
+3.https://ishtiaqhimu.blogspot.com/2019/06/beginners-problems-light-oj-hints.html?showComment=1610526741206#c4906902126703355772 (**beginner problems)
 
-4.https://light-online-judge.blogspot.com/2012/04/hints-for-lightoj-beginners-1008-1225.html
+4.https://light-online-judge.blogspot.com/2012/04/hints-for-lightoj-beginners-1008-1225.html (**important)
 
 5.http://prog3.com/sbdm/blog/myloverfromhit/article/details/38310901
 
